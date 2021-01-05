@@ -10,3 +10,9 @@
 | BI-LSTM-CRF              | 89.14     | 89.36  | 89.25 |
 | BI-LSTM(Label Attention) | 90.34     | 90.02  | 90.18 |
 
+
+   2. Test Set
+| Model                    | Precision | Recall | F1   |
+|--------------------------|-----------|--------|------|
+| BI-LSTM-CRF              | 89.94     | 84.26  | 84.6 |
+| BI-LSTM(Label Attention) | 85.13     | 83.69  | 84.4 |
