@@ -6,7 +6,7 @@
    1. Dev Set
    
  |Model|Precision|Precision|Recall|F1|
- |------|---|---|
+ |------|---|---|---|
  |BI-LSTM-CRF|89.14|89.36|89.25|
  |BI-LSTM(Label Attention)|90.34|90.02|90.18|
 
